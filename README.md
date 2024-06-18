@@ -1,3 +1,10 @@
+Chaimae Zarki
+
+Matrikelnummer:
+5443752
+
+E-Mail: chaimae.zarki@mnd.thm.de
+
 # Meine Portfolio-App
 
 ## Überblick
